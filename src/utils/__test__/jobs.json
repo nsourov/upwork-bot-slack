@@ -1,0 +1,389 @@
+[
+  {
+    "title": "Python Developer (Jupyter) with Devops Knowledge",
+    "createdOn": "2021-10-03T12:21:58+00:00",
+    "type": 1,
+    "ciphertext": "~01335f387403c2d278",
+    "description": "We are looking for a Python developer with Jupyter Kernel knowledge to deploy a development environment for this project:\nhttps://github.com/hi-primus/bumblebee\n\nProject description:\n- Together with a DevOps engineer deploy a Jupyter Kernel API server \n- make sure that cuDF, Dask-cuDF are working with a GPU (our server has GPU)\n- Work on a CI/CD deployment with our system admin\n\nIf you are a system admin and can deploy (create CI CD pipeline) and do both jobs, then payment will be higher.\n\nIf it works for you and for our team, you can join long term.",
+    "category2": null,
+    "subcategory2": null,
+    "skills": [],
+    "duration": "1 to 3 months",
+    "shortDuration": "1-3 months",
+    "durationLabel": "1 to 3 months",
+    "engagement": null,
+    "shortEngagement": null,
+    "amount": { "currencyCode": "USD", "amount": 35 },
+    "recno": 226341556,
+    "uid": "1444638854771273728",
+    "client": {
+      "paymentVerificationStatus": 1,
+      "location": { "country": "Israel" },
+      "totalSpent": 112.5,
+      "totalReviews": 3,
+      "totalFeedback": 5,
+      "companyRid": 0,
+      "companyName": null,
+      "edcUserId": 0,
+      "lastContractPlatform": null,
+      "lastContractRid": 0,
+      "lastContractTitle": null,
+      "feedbackText": "5.00 Stars, based on 3 feedbacks",
+      "companyOrgUid": "1336690191154569216",
+      "hasFinancialPrivacy": false
+    },
+    "freelancersToHire": 0,
+    "relevanceEncoded": "{\u0022position\u0022:\u00220\u0022}",
+    "enterpriseJob": false,
+    "tierText": "Entry level",
+    "tier": "Entry level",
+    "tierLabel": "Experience Level",
+    "isSaved": null,
+    "feedback": "",
+    "proposalsTier": "Less than 5",
+    "isApplied": false,
+    "sticky": false,
+    "stickyLabel": "",
+    "jobTs": "1633263718761",
+    "prefFreelancerLocationMandatory": false,
+    "prefFreelancerLocation": [],
+    "premium": false,
+    "plusBadge": null,
+    "publishedOn": "2021-10-03T12:21:58+00:00",
+    "renewedOn": null,
+    "sandsService": null,
+    "sandsSpec": null,
+    "sandsAttrs": null,
+    "occupation": null,
+    "attrs": [
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "996364628025274386",
+        "highlighted": false,
+        "prettyName": "Python"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1110580482322976768",
+        "highlighted": false,
+        "prettyName": "API"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626731499798528",
+        "highlighted": false,
+        "prettyName": "DevOps"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626784536772608",
+        "highlighted": false,
+        "prettyName": "System Administration"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626751951224832",
+        "highlighted": false,
+        "prettyName": "Jupyter"
+      }
+    ],
+    "isLocal": false,
+    "workType": null,
+    "locations": [],
+    "occupations": {
+      "category": {
+        "uid": "531770282580668418",
+        "prefLabel": "Web, Mobile \u0026 Software Dev"
+      },
+      "subcategories": [
+        { "uid": "531770282584862733", "prefLabel": "Web Development" }
+      ],
+      "oservice": {
+        "uid": "1110580748673863680",
+        "prefLabel": "Back-End Development"
+      }
+    },
+    "weeklyBudget": null,
+    "hourlyBudgetText": null,
+    "tags": [],
+    "clientRelation": null,
+    "totalFreelancersToHire": null,
+    "teamUid": null
+  },
+  {
+    "title": "Information tier project",
+    "createdOn": "2021-10-03T12:19:53+00:00",
+    "type": 2,
+    "ciphertext": "~01f67a1527156a1199",
+    "description": "Cognni is a pioneer information intelligence startup and Microsoft Security 2020 winner. \nWe are currently seeking an information tier for availability for unusual variable hours for a project-based job, helping our global team grow Worldwide.\n\nRequirements: \n-MUST-\n-Mongo\n-Logic specification\n-Node.js dev",
+    "category2": null,
+    "subcategory2": null,
+    "skills": [],
+    "duration": "3 to 6 months",
+    "shortDuration": "3-6 months",
+    "durationLabel": "3 to 6 months",
+    "engagement": "Less than 30 hrs/week",
+    "shortEngagement": "Less than 30",
+    "amount": { "currencyCode": "USD", "amount": 0 },
+    "recno": 226341539,
+    "uid": "1444638326303318016",
+    "client": {
+      "paymentVerificationStatus": 1,
+      "location": { "country": "Israel" },
+      "totalSpent": 176324.64,
+      "totalReviews": 150,
+      "totalFeedback": 4.7899472521,
+      "companyRid": 0,
+      "companyName": null,
+      "edcUserId": 0,
+      "lastContractPlatform": null,
+      "lastContractRid": 0,
+      "lastContractTitle": null,
+      "feedbackText": "4.79 Stars, based on 150 feedbacks",
+      "companyOrgUid": "520931251759022080",
+      "hasFinancialPrivacy": false
+    },
+    "freelancersToHire": 1,
+    "relevanceEncoded": "{\u0022position\u0022:\u00221\u0022}",
+    "enterpriseJob": false,
+    "tierText": "Intermediate",
+    "tier": "Intermediate",
+    "tierLabel": "Experience Level",
+    "isSaved": null,
+    "feedback": "",
+    "proposalsTier": "Less than 5",
+    "isApplied": false,
+    "sticky": false,
+    "stickyLabel": "",
+    "jobTs": "1633263593401",
+    "prefFreelancerLocationMandatory": false,
+    "prefFreelancerLocation": [],
+    "premium": false,
+    "plusBadge": null,
+    "publishedOn": "2021-10-03T12:19:53+00:00",
+    "renewedOn": null,
+    "sandsService": null,
+    "sandsSpec": null,
+    "sandsAttrs": null,
+    "occupation": null,
+    "attrs": [
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1110580482322976768",
+        "highlighted": false,
+        "prettyName": "API"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "996364628025274382",
+        "highlighted": false,
+        "prettyName": "Java"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "996364628025274383",
+        "highlighted": false,
+        "prettyName": "JavaScript"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626782364123136",
+        "highlighted": false,
+        "prettyName": "SQL"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "996364627995914244",
+        "highlighted": false,
+        "prettyName": "LevelDB"
+      }
+    ],
+    "isLocal": false,
+    "workType": null,
+    "locations": [],
+    "occupations": {
+      "category": {
+        "uid": "531770282580668418",
+        "prefLabel": "Web, Mobile \u0026 Software Dev"
+      },
+      "subcategories": [
+        { "uid": "531770282584862733", "prefLabel": "Web Development" }
+      ],
+      "oservice": {
+        "uid": "1110580755107926016",
+        "prefLabel": "Full Stack Development"
+      }
+    },
+    "weeklyBudget": null,
+    "hourlyBudgetText": "$10.00-$35.00",
+    "tags": [],
+    "clientRelation": null,
+    "totalFreelancersToHire": null,
+    "teamUid": null
+  },
+  {
+    "title": "Salesforce Development Help",
+    "createdOn": "2021-10-03T12:17:22+00:00",
+    "type": 2,
+    "ciphertext": "~013bd175dc10fb0246",
+    "description": "Hey Salesforce Developers,\n\nI\u0027m looking for a strong candidate to help me on various Salesforce projects. Tasks will include:\n- Apex and triggers development\n- LWC \u0026amp; Aura components development\n- All sort of integrations with 3rd party APIs\n\nI\u0027m looking for an independent candidate that can deliver tasks on his/her own in a quality manner.\nPotential to grow into full time resource if cooperation goes smoothly.",
+    "category2": null,
+    "subcategory2": null,
+    "skills": [],
+    "duration": "3 to 6 months",
+    "shortDuration": "3-6 months",
+    "durationLabel": "3 to 6 months",
+    "engagement": "Less than 30 hrs/week",
+    "shortEngagement": "Less than 30",
+    "amount": { "currencyCode": "USD", "amount": 0 },
+    "recno": 226341513,
+    "uid": "1444637696343306240",
+    "client": {
+      "paymentVerificationStatus": 1,
+      "location": { "country": "Poland" },
+      "totalSpent": 7063.5,
+      "totalReviews": 0,
+      "totalFeedback": 0,
+      "companyRid": 0,
+      "companyName": null,
+      "edcUserId": 0,
+      "lastContractPlatform": null,
+      "lastContractRid": 0,
+      "lastContractTitle": null,
+      "feedbackText": "No feedback yet",
+      "companyOrgUid": "1391870142972358657",
+      "hasFinancialPrivacy": false
+    },
+    "freelancersToHire": 1,
+    "relevanceEncoded": "{\u0022position\u0022:\u00222\u0022}",
+    "enterpriseJob": false,
+    "tierText": "Intermediate",
+    "tier": "Intermediate",
+    "tierLabel": "Experience Level",
+    "isSaved": null,
+    "feedback": "",
+    "proposalsTier": "Less than 5",
+    "isApplied": false,
+    "sticky": false,
+    "stickyLabel": "",
+    "jobTs": "1633263442593",
+    "prefFreelancerLocationMandatory": false,
+    "prefFreelancerLocation": [],
+    "premium": false,
+    "plusBadge": null,
+    "publishedOn": "2021-10-03T12:17:22+00:00",
+    "renewedOn": null,
+    "sandsService": null,
+    "sandsSpec": null,
+    "sandsAttrs": null,
+    "occupation": null,
+    "attrs": [
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626776555012096",
+        "highlighted": false,
+        "prettyName": "Salesforce CRM"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626776563400704",
+        "highlighted": false,
+        "prettyName": "Salesforce Lightning"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626776534040576",
+        "highlighted": false,
+        "prettyName": "APEX"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626776546623488",
+        "highlighted": false,
+        "prettyName": "Salesforce App Development"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626776588566528",
+        "highlighted": false,
+        "prettyName": "Salesforce Sales Cloud"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626793768435712",
+        "highlighted": false,
+        "prettyName": "Visualforce"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "996364628025274383",
+        "highlighted": false,
+        "prettyName": "JavaScript"
+      },
+      {
+        "parentSkillUid": null,
+        "freeText": null,
+        "skillType": 3,
+        "uid": "1031626728555397120",
+        "highlighted": false,
+        "prettyName": "CRM"
+      }
+    ],
+    "isLocal": false,
+    "workType": null,
+    "locations": [],
+    "occupations": {
+      "category": {
+        "uid": "531770282580668418",
+        "prefLabel": "Web, Mobile \u0026 Software Dev"
+      },
+      "subcategories": [
+        { "uid": "531770282584862733", "prefLabel": "Web Development" }
+      ],
+      "oservice": {
+        "uid": "1110580755107926016",
+        "prefLabel": "Full Stack Development"
+      }
+    },
+    "weeklyBudget": null,
+    "hourlyBudgetText": "$10.00-$18.00",
+    "tags": [],
+    "clientRelation": null,
+    "totalFreelancersToHire": null,
+    "teamUid": null
+  }
+]

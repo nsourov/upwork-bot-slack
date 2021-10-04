@@ -1,0 +1,42 @@
+{
+  "name": "upwork-bot-slack",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Naimur Rahman Sourov",
+    "email": "naimur.rahman103@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "dotenv -e environments/.env -- ts-node-dev --poll src/index.ts",
+    "test": "dotenv -e environments/.env.test -- jest --watchAll --no-cache"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "setupFilesAfterEnv": [
+      "./src/jest.ts"
+    ]
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.7.0",
+    "@types/axios": "^0.14.0",
+    "@types/cron": "^1.7.3",
+    "@types/node": "^16.9.0",
+    "@types/uuid": "^8.3.1",
+    "array-flatten": "^3.0.0",
+    "axios": "^0.22.0",
+    "cron": "^1.8.2",
+    "dayjs": "^1.10.7",
+    "simple-json-db": "^1.2.3",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "dotenv-cli": "^4.0.0",
+    "jest": "^27.2.4",
+    "ts-jest": "^27.0.5"
+  }
+}
